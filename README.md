@@ -1,0 +1,27 @@
+bspwm
+picom
+polybar
+nitrogen
+qogir
+alacritty
+zsh
+nautilus
+ranger
+lsd
+rofi
+sxhkd
+nvim
+libreoffice
+code
+chromium
+firefox
+neofetch
+vlc
+
+Desktop
+Pictures
+    Screenshots
+    Wallpapers
+Music
+Videos
+Downloads
